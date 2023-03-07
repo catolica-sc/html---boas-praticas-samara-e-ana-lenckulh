@@ -1,0 +1,23 @@
+
+main{
+    width:100vw;
+    height: 100vh;
+    font-size: 20px;
+    color: antiquewhite;
+}
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.548), rgba(31, 19, 2, 0.37)), url(IMG-20220314-WA0003.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-position-y: 0px;
+}
+a{
+    color: antiquewhite;
+}
+h1{
+    color: antiquewhite;
+}
+h3{
+    color: antiquewhite;
+}
